@@ -1,0 +1,35 @@
+== MT2_N_MT.tsv ==
+Unique full entry names:       5944
+Unique base names (before _):  352
+
+== MT2_O_MT.tsv ==
+Unique full entry names:       1889
+Unique base names (before _):  183
+
+== MT2_C_MT.tsv ==
+Unique full entry names:       1920
+Unique base names (before _):  150
+
+== MT2_S_MT.tsv ==
+Unique full entry names:       49
+Unique base names (before _):  19
+
+== MT2_MIXED.tsv ==
+Unique full entry names:       370
+Unique base names (before _):  26
+
+== MT2_MULTIPLE.tsv ==
+Unique full entry names:       272
+Unique base names (before _):  2
+
+== MT2_OTHER.tsv ==
+Unique full entry names:       25
+Unique base names (before _):  4
+
+== MT2_UNKNOWN.tsv ==
+Unique full entry names:       29
+Unique base names (before _):  5
+
+== OVERALL (across all files) ==
+Unique full entry names:      10498
+Unique base names (before _): 723
